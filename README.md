@@ -33,6 +33,8 @@ eas build --profile development --platform android
 | Modified RC4                                  | ✅     |
 | Able to encrypt + decrypt file                | ✅     |
 | Able to save encrypted/decrypted to .txt file | ✅     |
+| Mobile app                                    | ✅     |
+| Website                                       | ✅     |
 
 ## Note
 
